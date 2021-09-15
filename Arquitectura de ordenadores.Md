@@ -25,3 +25,13 @@ El número digitalizado estará en sistema binario.
 
 
 ![](https://github.com/St1v3n3223/1er-Trimestre/blob/main/Captura%20de%20pantalla%20de%202021-09-15%2014-12-22.png?raw=true)
+
+
+
+
+Un conjunto formado por 8 bitsrecibe el nombre de Byte. Por tanto, también podemos decir que
+el numero 150 mide 1 byte. Además, se utilizan los siguientes múltiplos del byte:
+-1 Kilobyte (KB) = 1.024 Bytes (~ 1000 Bytes).
+- 1 Megabyte (MB) = 1.024 KB = 1.048.576 Bytes (~ un millón de Bytes).
+- 1 Gigabyte (GB) = 1.024 MB = 1.048.576 KB = 1.073.741.824 Bytes (~ mil millones de Bytes).
+- 1 Terabyte (TB) = 1.024 GB = 1.048.576 MB = 1.073.741.824 KBytes (~ 1 billón de Bytes). 
