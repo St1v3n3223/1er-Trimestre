@@ -24,3 +24,4 @@ por 2 sucesivamente y escribir en orden inverso todos los restos, que serán sie
 El número digitalizado estará en sistema binario.
 
 
+![](https://github.com/St1v3n3223/1er-Trimestre/blob/main/Captura%20de%20pantalla%20de%202021-09-15%2014-12-22.png?raw=true)
