@@ -4,7 +4,7 @@ Me llamo Stiven
 me gustan los videosjuegos,el futball y el manga
 
 
-q=rimuru+tempest&client=ubuntu&hs=RNo&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiV9fqcw4DzAhVQhVwKHXkuBNYQ_AUoAXoECAEQAw&biw=1920&bih=953)
+[rimuru}(q=rimuru+tempest&client=ubuntu&hs=RNo&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiV9fqcw4DzAhVQhVwKHXkuBNYQ_AUoAXoECAEQAw&biw=1920&bih=953)
 �
 [Profe](https://github.com/d-prieto?tab=repositories)
 # Stiven
