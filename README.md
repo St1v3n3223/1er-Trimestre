@@ -10,3 +10,6 @@ me gustan los videosjuegos,el futball y el manga
 # Stiven
 [Profe](https://github.com/d-prieto?tab=repositories)
 [rimuru](q=rimuru+tempest&client=ubuntu&hs=RNo&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiV9fqcw4DzAhVQhVwKHXkuBNYQ_AUoAXoECAEQAw&biw=1920&bih=953)
+
+
+[Arquitectura de ordenadores](https://github.com/St1v3n3223/1er-Trimestre/blob/main/Arquitectura%20de%20ordenadores.Md)
