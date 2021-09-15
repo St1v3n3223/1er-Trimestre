@@ -13,3 +13,4 @@ me gustan los videosjuegos,el futball y el manga
 
 
 [Arquitectura de ordenadores](https://github.com/St1v3n3223/1er-Trimestre/blob/main/Arquitectura%20de%20ordenadores.Md)
+[Mecanografia](https://github.com/St1v3n3223/1er-Trimestre/blob/main/Mecanografia.MD)
