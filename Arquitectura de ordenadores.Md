@@ -40,6 +40,7 @@ el numero 150 mide 1 byte. Además, se utilizan los siguientes múltiplos del by
 # Binario
 El sistema binario funciona con potencias del 2
 2,4,8,16,32,64.
+
 0-0
 
 
