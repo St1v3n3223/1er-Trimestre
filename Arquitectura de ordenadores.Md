@@ -109,4 +109,11 @@ Unicode tiene hasta 100000 caracteres
 1000000-11110100001001000000 binario (https://es.convertbinary.com/decimal-a-binario/)
 
 ## Procesador
+
+El microprocesador es un circuito integrado formado por millones de transistores, cuya función
+es procesar los datos y las instrucciones que recibe de la memoria RAM. El área ocupada por dicho
+circuito viene a ser un cuadrado de 1 cm de lado, pero la gran cantidad de patillas de conexión que
+necesita para conectarse a la placa base, hace que su tamaño total sea mayor.
+
+
 ![](https://github.com/St1v3n3223/1er-Trimestre/blob/main/procesador.jpeg?raw=true)
