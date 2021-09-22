@@ -1,4 +1,4 @@
-                                          # Arquitectura de ordenadores
+# Arquitectura de ordenadores
 Aqui estan los apuntes de ordenadores
 Como funciona un ordenador: Todos los ordenadores tienen procesadores (1 o mas) resive datos y los prosesa para decidir que va a hacer, el ordenador para hacer eso nesesita una entrada de datos medienate internet. La fuente de alimentacion no tienen la potencia y subin y bajan la tension  transfor,a de electricidat y si nesesita mas o menos le da mas energia o menos.
 
@@ -37,7 +37,7 @@ el numero 150 mide 1 byte. Además, se utilizan los siguientes múltiplos del by
 - 1 Terabyte (TB) = 1.024 GB = 1.048.576 MB = 1.073.741.824 KBytes (~ 1 billón de Bytes). 
 
 
-                                                ## Binario
+## Binario
 El sistema binario funciona con potencias del 2
 2,4,8,16,32,64.
 
@@ -73,7 +73,8 @@ El sistema binario funciona con potencias del 2
 
 10-1010
 
-                                                           ## Ejercios de conversion
+
+## Ejercios de conversion
 
 
 ¿Cuanto es en decimal?
