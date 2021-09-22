@@ -2,7 +2,7 @@
 Bienvenidos 1er cuatrimestre
 
 Me llamo Stiven
- Soy de honduras,estoy en informatica porque quiero aprender programcion,me gustan los videosjuegos,el futbol y el manga
+ Soy de honduras,estoy en informatica porque quiero aprender programacion,me gustan los videosjuegos,el futbol y el manga
 
 
 
