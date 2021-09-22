@@ -78,6 +78,19 @@ para Hexadecimal 0x
 10-1010
 ```
 
+## Convertir números en letras
+Existen codigos que convierten numeros a letras
+ASLI tiene 255 valores y conectan el latin
+
+
+A-011000
+
+
+a-0b1010
+
+
+Unicode tiene hasta 100000 caracteres
+
 ## Ejercios de conversion
 
 
