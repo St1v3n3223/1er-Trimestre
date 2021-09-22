@@ -102,7 +102,7 @@ El sistema binario funciona con potencias del 2
 
 13
 
-Hexadecimal
+# Hexadecimal
 
 1
 
