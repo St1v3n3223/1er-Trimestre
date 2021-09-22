@@ -117,3 +117,12 @@ necesita para conectarse a la placa base, hace que su tamaño total sea mayor.
 
 
 ![](https://github.com/St1v3n3223/1er-Trimestre/blob/main/procesador.jpeg?raw=true)
+
+## Memoria Ram
+
+La memoria RAM es donde el ordenador almacena temporalmente los datos y los programas
+con los que está trabajando. Todo lo que hay en ella almacenado se borra cuando apagamos o
+reiniciamos el ordenador. Físicamente es una placa rectangular de circuito impreso con varios chips,
+que se acopla a la placa base a través de una ranura específica.
+
+![](https://github.com/St1v3n3223/1er-Trimestre/blob/main/descarga.jpeg?raw=true)
