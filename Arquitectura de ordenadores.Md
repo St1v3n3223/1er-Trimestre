@@ -80,7 +80,7 @@ para Hexadecimal 0x
 
 ## Convertir números en letras
 Existen codigos que convierten numeros a letras
-ASLI tiene 255 valores y conectan el latin
+ASLI tiene 255 valores y tiene caracteres latinos.
 
 
 A-011000
