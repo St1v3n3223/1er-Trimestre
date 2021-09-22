@@ -126,3 +126,23 @@ reiniciamos el ordenador. Físicamente es una placa rectangular de circuito impr
 que se acopla a la placa base a través de una ranura específica.
 
 ![](https://github.com/St1v3n3223/1er-Trimestre/blob/main/descarga.jpeg?raw=true)
+
+
+## Componentes
+
+PROCESADOR INTEL CORE I3-9100 3.6 LGA 1151 (SOCKET H4) (157 euros)
+
+MEMORIA 16 GB ( 1 X 16 ) DDR4 2666 MHZ KINGSTON VALUERAM 16GB DDR4 2666MHZ CL 19 (75 euros)
+
+DISCO DURO SSD 1000 GB M.2 WESTERN DIGITAL SN750 3470 MB/S PCI EXPRESS 3.0 NVME (133 euros)
+
+TARJETA GRÁFICA 2GB ASUS GEFORCE GT 1030 O2G PCX GDDR5 HDMI/DVI (96 euros)
+
+
+WINDOWS 10 HOME 32/64 BITS DSP (LICENCIA+DVD) (102 euros)
+
+MONITOR 27" KEEP OUT XGM27C+RGB 1920X1080 CURVO FHD 165HZ FREESYNC HDMI DPORT NEGRO(236 euros)
+
+Teclado Mecánico Krom Kuma Gaming Iluminación RGB 115 teclas (42 euros)
+
+
