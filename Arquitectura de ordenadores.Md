@@ -127,6 +127,11 @@ que se acopla a la placa base a través de una ranura específica.
 
 ![](https://github.com/St1v3n3223/1er-Trimestre/blob/main/descarga.jpeg?raw=true)
 
+## Teclados
+
+Son dispositivos de entrada activados por pulsacion de teclas incorporado con un circuito integrado
+que se comunica con el PC.
+Conexión USB (Antiguamente PS/2).
 
 ## Componentes
 ```
