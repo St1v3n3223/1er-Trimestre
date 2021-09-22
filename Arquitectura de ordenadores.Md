@@ -1,7 +1,10 @@
 ## Índice
 
 [Clase de binario](https://github.com/St1v3n3223/1er-Trimestre/blob/main/Arquitectura%20de%20ordenadores.Md#binario)
+
+
 [Arquitectura de ordenadores](https://github.com/St1v3n3223/1er-Trimestre/blob/main/Arquitectura%20de%20ordenadores.Md)
+
 
 # Arquitectura de ordenadores
 Aqui estan los apuntes de ordenadores
