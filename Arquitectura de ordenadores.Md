@@ -109,4 +109,4 @@ Unicode tiene hasta 100000 caracteres
 1000000-11110100001001000000 binario (https://es.convertbinary.com/decimal-a-binario/)
 
 ## Procesador
-[](https://github.com/St1v3n3223/1er-Trimestre/blob/main/procesador.jpeg?raw=true)
+![](https://github.com/St1v3n3223/1er-Trimestre/blob/main/procesador.jpeg?raw=true)
