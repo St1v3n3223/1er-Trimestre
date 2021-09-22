@@ -129,25 +129,12 @@ que se acopla a la placa base a través de una ranura específica.
 
 
 ## Componentes
-
-PROCESADOR INTEL CORE I3-9100 3.6 LGA 1151 (SOCKET H4) (157 euros)
-
-MEMORIA 16 GB ( 1 X 16 ) DDR4 2666 MHZ KINGSTON VALUERAM 16GB DDR4 2666MHZ CL 19 (75 euros)
-
-DISCO DURO SSD 1000 GB M.2 WESTERN DIGITAL SN750 3470 MB/S PCI EXPRESS 3.0 NVME (133 euros)
-
-TARJETA GRÁFICA 2GB ASUS GEFORCE GT 1030 O2G PCX GDDR5 HDMI/DVI (96 euros)
-
-
-WINDOWS 10 HOME 32/64 BITS DSP (LICENCIA+DVD) (102 euros)
-
-MONITOR 27" KEEP OUT XGM27C+RGB 1920X1080 CURVO FHD 165HZ FREESYNC HDMI DPORT NEGRO(236 euros)
-
-Teclado Mecánico Krom Kuma Gaming Iluminación RGB 115 teclas (42 euros)
-
-
-RATON OZONE NEON M50 5000DPI NEGRO (44 euros)
-
-CAJA SEMITORRE AEROCOOL TOR RGB NEGRA USB3.0 (83 euros)
-
-RASPBERRY PLACA BASE PI 3 MODELO A+ CORTEX1,4GHZ WIFI (32 euros)
+```
+CPU - Procesador de cuatro nucleos intel core (3,60 GHz) 6 MB de caché
+Placa Base - Asus Micro ATX, DDR4, USB 3.2, SATA 6 GB
+RAM - 32 GB Corasair Vengeance DDR4 2666 MHz (2x16 GB)
+Targeta Grafica - 4 GB Nvidia Geforce GTX 150 Ti - DVI - HDMI - DP
+Disco Duro - 1TB, Segata Barracuda HDD SATA-III, 6 GB/s, 7200 RPM, 64 MG de caché
+Empire Gaming - Teclado Gamer K300 QWERY
+Mars Gaming - Ratón Gaming 4000DPI = 959€
+'''
