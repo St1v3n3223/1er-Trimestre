@@ -74,3 +74,6 @@ El sistema binario funciona con potencias del 2
 10-1010
 
 
+¿Cuanto es en decimal?
+
+11100110011001- 1475 decimales
