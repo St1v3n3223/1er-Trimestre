@@ -35,3 +35,17 @@ el numero 150 mide 1 byte. Además, se utilizan los siguientes múltiplos del by
 - 1 Megabyte (MB) = 1.024 KB = 1.048.576 Bytes (~ un millón de Bytes).
 - 1 Gigabyte (GB) = 1.024 MB = 1.048.576 KB = 1.073.741.824 Bytes (~ mil millones de Bytes).
 - 1 Terabyte (TB) = 1.024 GB = 1.048.576 MB = 1.073.741.824 KBytes (~ 1 billón de Bytes). 
+
+
+# Binario
+0-0
+1-1
+2-10
+3-11
+4-100
+5-101
+6-110
+7-111
+8-1000
+9-1001
+10-1010
