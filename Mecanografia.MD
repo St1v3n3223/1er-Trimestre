@@ -11,7 +11,7 @@ AgileFingers es una buena pagian con juegos buenos para mejorar
 ![](https://github.com/St1v3n3223/1er-Trimestre/blob/main/Captura%20de%20pantalla%20de%202021-09-15%2012-13-54.png?raw=true)
 
 
-### 20 de septiembre
+### 22 de septiembre
 
 ![](https://github.com/St1v3n3223/1er-Trimestre/blob/main/Captura%20de%20pantalla%20de%202021-09-22%2010-34-57.png?raw=true)
 
