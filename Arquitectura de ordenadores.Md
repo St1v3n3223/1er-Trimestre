@@ -43,7 +43,7 @@ El sistema binario funciona con potencias del 2
 0-0
 
 
-1-1
+1-1        1000000-64 decimales 
 
 
 2-10
