@@ -44,7 +44,7 @@ El sistema binario funciona con potencias del 2
 0-0
 
 
-1-1        1000000-64 decimales 
+1-1      
 
 
 2-10
@@ -78,6 +78,6 @@ El sistema binario funciona con potencias del 2
 
 ¿Cuanto es en decimal?
 
-11100110011001- 1475 decimales [] (https://es.convertbinary.com/binario-a-decimal/)
+11100110011001- 1475 decimales (https://es.convertbinary.com/binario-a-decimal/)
 
 1000000-11110100001001000000 binario (https://es.convertbinary.com/decimal-a-binario/)
