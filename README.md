@@ -20,6 +20,6 @@ Me llamo Stiven
 
 
 
-[Clase de binario](https://github.com/St1v3n3223/1er-Trimestre/blob/main/Captura%20de%20pantalla%20de%202021-09-22%2010-34-57.png?raw=true)
+[Clase de binario](https://github.com/St1v3n3223/1er-Trimestre/blob/main/Arquitectura%20de%20ordenadores.Md#binario)
 
 
