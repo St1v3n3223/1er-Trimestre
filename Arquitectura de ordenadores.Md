@@ -132,7 +132,9 @@ que se acopla a la placa base a través de una ranura específica.
 Son dispositivos de entrada activados por pulsacion de teclas incorporado con un circuito integrado
 que se comunica con el PC.
 Conexión USB (Antiguamente PS/2).
-
+ 
+ ![](https://github.com/St1v3n3223/1er-Trimestre/blob/main/Teclados-de-Membrana-1280x720.jpg?raw=true)
+ 
 ## Componentes
 ```
 CPU - Procesador de cuatro nucleos intel core (3,60 GHz) 6 MB de caché
