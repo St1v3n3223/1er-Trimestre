@@ -37,7 +37,7 @@ el numero 150 mide 1 byte. Además, se utilizan los siguientes múltiplos del by
 - 1 Terabyte (TB) = 1.024 GB = 1.048.576 MB = 1.073.741.824 KBytes (~ 1 billón de Bytes). 
 
 
-# Binario
+## Binario
 El sistema binario funciona con potencias del 2
 2,4,8,16,32,64.
 
@@ -73,8 +73,11 @@ El sistema binario funciona con potencias del 2
 
 10-1010
 
+## Ejercios de conversion
+
 
 ¿Cuanto es en decimal?
 
 11100110011001- 1475 decimales [] (https://es.convertbinary.com/binario-a-decimal/)
 
+1000000-11110100001001000000 binario (https://es.convertbinary.com/decimal-a-binario/)
