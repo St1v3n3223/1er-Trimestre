@@ -146,4 +146,8 @@ Empire Gaming - Teclado Gamer K300 QWERY
 Mars Gaming - Ratón Gaming 4000DPI = 959€
 ```
 ### Targeta grafica
-[Nvidia Geforce GTX 1150](https://www.nvidia.com/es-la/geforce/products/10series/geforce-gtx-1050/)
+[Nvidia Geforce GTX 1150](https://www.nvidia.com/es-la/geforce/products/10series/geforce-gtx-1050/) (Hay que bajar hasta especificaciones)
+
+
+Salidas:DVI - HDMI - DP
+
