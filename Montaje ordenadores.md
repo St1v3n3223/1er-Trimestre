@@ -10,7 +10,7 @@ David
 
 ## proceso de desmontaje
 
-[fksofff](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_124718_1.jpg)
+![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_124718_1.jpg)
 
 ## Que habeis aprendido
 
