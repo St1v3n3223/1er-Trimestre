@@ -1,26 +1,32 @@
-## ¿ Cómo es el ordenador que tengo desarmado ?
+## Personas en el equipo
+
+Angel,David,Chris,Stiven
 
 
+## Quien fue el fotografo ?
+
+David
 
 
+## proceso de desmontaje
 
 
+## Que habeis aprendido
 
+Componentes y la manera de montar y desmontar
 
+## descripcion de los componentes
 
+Todo estaba bastante bien tienen bastante polvo, 3 ventiladores, la placa base, falta disco duro y targeta grafica
 
+## Funcionaria el ordenador ?
 
-## ¿Tiene alguna pieza reutilizable ?
+no funcionaria porque le falta el disco duro y la targeta grafica.
 
+## Le faltan piezas ?
 
+si el disco duro y la targeta grafica.
 
+## De qué año es el ordenador ?
 
-
-
-
-
-
-
-
-
-## ¿ De qué año es ?
+2001-2010
