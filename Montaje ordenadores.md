@@ -3,12 +3,13 @@
 Angel,David,Chris,Stiven
 
 
+
 ## Quien fue el fotografo ?
 
 David
 
-
 ## proceso de desmontaje
+
 
 
 ## Que habeis aprendido
@@ -17,7 +18,7 @@ Componentes y la manera de montar y desmontar
 
 ## descripcion de los componentes
 
-Todo estaba bastante bien tienen bastante polvo, 3 ventiladores, la placa base, falta disco duro y targeta grafica
+Todo estaba bastante bien tienen bastante polvo, 3 ventiladores, la placa base, falta disco duro. targeta grafica y la fuente de alimentacion bastante grande y pesada
 
 ## Funcionaria el ordenador ?
 
