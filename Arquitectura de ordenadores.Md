@@ -164,3 +164,5 @@ Un disco duro es una unidad de hardware que se usa para almacenar contenido y da
 100GB x 1024 M6/g6 X 1024 kb/m6 X1024.
 
 Si cada sector es de 512 bytes cuanto es 100 gb : Són 209715200 sectores.
+
+
