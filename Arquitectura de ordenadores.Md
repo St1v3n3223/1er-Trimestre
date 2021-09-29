@@ -140,8 +140,10 @@ Conexión USB (Antiguamente PS/2).
 CPU - Procesador de cuatro nucleos intel core (3,60 GHz) 6 MB de caché
 Placa Base - Asus Micro ATX, DDR4, USB 3.2, SATA 6 GB
 RAM - 32 GB Corasair Vengeance DDR4 2666 MHz (2x16 GB)
-Targeta Grafica - 4 GB Nvidia Geforce GTX 150 Ti - DVI - HDMI - DP
+Targeta Grafica - 4 GB Nvidia Geforce GTX 1150 Ti - DVI - HDMI - DP
 Disco Duro - 1TB, Segata Barracuda HDD SATA-III, 6 GB/s, 7200 RPM, 64 MG de caché
 Empire Gaming - Teclado Gamer K300 QWERY
 Mars Gaming - Ratón Gaming 4000DPI = 959€
-'''
+```
+### Targeta grafica
+[Nvidia Geforce GTX 1150](https://www.nvidia.com/es-la/geforce/products/10series/geforce-gtx-1050/)
