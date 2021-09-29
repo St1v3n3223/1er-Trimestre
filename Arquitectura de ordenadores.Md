@@ -152,3 +152,15 @@ Mars Gaming - Ratón Gaming 4000DPI = 959€
 
 Salidas:DVI - HDMI - DP
 
+
+### Disco duro.
+
+Un disco duro es una unidad de hardware que se usa para almacenar contenido y datos digitales en las computadoras. Todas las computadoras tienen un disco duro interno, pero también hay discos duros externos que pueden usarse para ampliar el almacenamiento de una computadora.
+
+### Reformateo y sectores de disco duro.
+
+¿Cuantyos sectores ?
+
+100GB x 1024 M6/g6 X 1024 kb/m6 X1024.
+
+Si cada sector es de 512 bytes cuanto es 100 gb : Són 209715200 sectores.
