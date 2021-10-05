@@ -10,17 +10,29 @@ David
 
 ## proceso de desmontaje
 
+### Podemos observar todos los componentes del ordenador desmontado
+
 ![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_124718_1.jpg)
+
+### Empezamos quitando la tapa donde  que dan todos los componentes expuestos
 
 ![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_114820.jpg)
 
+### En esta fotografia podemos observar el sistema operativo que lleva y los numeros de serie
+
 ![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_114922.jpg)
 
+### Aqui pone el sistema que lleva
+
 ![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_114925.jpg)
+
+### Vemos el pc abierto desde otra perspectiva y la placa base 
 
 ![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_115041.jpg)
 
 ![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_115135.jpg)
+
+
 
 ![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_115323.jpg)
 
