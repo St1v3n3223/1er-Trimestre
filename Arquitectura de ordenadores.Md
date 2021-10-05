@@ -101,12 +101,15 @@ Unicode tiene hasta 100000 caracteres
 
 ## Ejercios de conversion
 
+```
 
 ¿Cuanto es en decimal?
 
 11100110011001- 1475 decimales (https://es.convertbinary.com/binario-a-decimal/)
 
 1000000-11110100001001000000 binario (https://es.convertbinary.com/decimal-a-binario/)
+
+```
 
 ## Procesador
 
@@ -166,3 +169,4 @@ Un disco duro es una unidad de hardware que se usa para almacenar contenido y da
 Si cada sector es de 512 bytes cuanto es 100 gb : Són 209715200 sectores.
 
 
+## Internet y redes
