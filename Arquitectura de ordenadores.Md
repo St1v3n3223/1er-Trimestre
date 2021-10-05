@@ -183,7 +183,7 @@ Seagate Disco duro 2TB Barracuda 3.5
 -49,13 €
 -Serial ATA
 -7200 rpm
-Solido.
+-Magnetico
 256 Mo
 
 ![Paginas visitadas](https://www.seagate.com/www-content/datasheets/pdfs/3-5-barracudaDS1900-11-1806LA-es_LA.pdf)
