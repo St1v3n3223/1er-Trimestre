@@ -186,4 +186,4 @@ Seagate Disco duro 2TB Barracuda 3.5
 Solido.
 256 Mo
 
-![Paginas visitadas](https://www.seagate.com/www-content/datasheets/pdfs/3-5-barracudaDS1900-11-1806LA-es_LA.pdf)
+![Paginas visitadas](https://www.seagate.com/www-content/datasheets/pdfs/3-5-barracudaDS1900-11-1806LA-es_LA.pdf)(https://www.amazon.es/Seagate-barracuda-desktop-3-5in-ST2000DM008/dp/B075QJTBVT/ref=asc_df_B075QJTBVT/?tag=googshopes-21&linkCode=df0&hvadid=298157711440&hvpos=&hvnetw=g&hvrand=3664834477077490621&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1005427&hvtargid=pla-721841429415&psc=1)
