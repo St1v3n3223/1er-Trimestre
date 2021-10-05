@@ -186,4 +186,4 @@ Seagate Disco duro 2TB Barracuda 3.5
 Solido.
 256 Mo
 
-[](https://www.seagate.com/www-content/datasheets/pdfs/3-5-barracudaDS1900-11-1806LA-es_LA.pdf)
+![](https://www.seagate.com/www-content/datasheets/pdfs/3-5-barracudaDS1900-11-1806LA-es_LA.pdf)
