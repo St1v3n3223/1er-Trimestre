@@ -170,3 +170,9 @@ Si cada sector es de 512 bytes cuanto es 100 gb : Són 209715200 sectores.
 
 
 ## Internet y redes
+
+### Redes locales- LAN
+LAN- Local Area Network
+
+protocolo  TCP/IP.
+
