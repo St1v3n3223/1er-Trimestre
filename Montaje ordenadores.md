@@ -18,6 +18,10 @@ David
 
 ![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_114925.jpg)
 
+![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_115041.jpg)
+
+![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_115135.jpg)
+
 
 ## Que habeis aprendido
 
