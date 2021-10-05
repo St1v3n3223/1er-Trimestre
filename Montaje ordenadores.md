@@ -26,8 +26,19 @@ David
 
 ![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_120321.jpg)
 
+![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_120333.jpg)
 
+![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_121620.jpg9)
 
+![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_121805.jpg)
+
+![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_122850.jpg)
+
+![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_123126.jpg)
+
+![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_123455.jpg)
+
+![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_123506.jpg)
 
 ## Que habeis aprendido
 
