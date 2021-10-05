@@ -23,5 +23,5 @@ Me llamo Stiven
 [Clase de binario](https://github.com/St1v3n3223/1er-Trimestre/blob/main/Arquitectura%20de%20ordenadores.Md#binario)
 
 
-[Montaje de ordenadores](https://github.com/St1v3n3223/1er-Trimestre/edit/main/Montaje%20ordenadores.md)
+[Montaje de ordenadores](https://github.com/St1v3n3223/1er-Trimestre/blob/main/Montaje%20ordenadores.md)
 [Arquitectura pdf](https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf)
