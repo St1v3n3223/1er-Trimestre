@@ -40,6 +40,12 @@ David
 
 ![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_123506.jpg)
 
+![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_124718_1.jpg)
+
+![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_130223-1.jpg)
+
+![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_130223.jpg)
+
 ## Que habeis aprendido
 
 Componentes y la manera de montar y desmontar
