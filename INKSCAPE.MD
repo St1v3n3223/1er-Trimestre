@@ -34,3 +34,14 @@ Las lineas horizontales suelen ser
  -sistema para detallar el color
  -RGB (red green, blue,)
  -CMYK(Cuya
+
+GIF
+![](https://raw.githubusercontent.com/St1v3n3223/1er-Trimestre/main/that-time-i-got-reincarnated-as-a-slime-rimuru.gif)
+
+
+PNJ
+![](https://raw.githubusercontent.com/St1v3n3223/1er-Trimestre/main/rimuru%2Cveldora.png)
+
+
+PNJ
+![](https://raw.githubusercontent.com/St1v3n3223/1er-Trimestre/main/rimurua.jpg)
