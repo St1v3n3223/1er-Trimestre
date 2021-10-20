@@ -58,7 +58,7 @@ PNG
 Leon Rosa Bonheur
 ![](https://raw.githubusercontent.com/St1v3n3223/1er-Trimestre/main/Rosa_Bonheur_-_Portrait_of_a_Lion_-_Prado.jpg)
 
-
+```
 
 ## Archivo: propiedades del documento.
 
@@ -69,7 +69,9 @@ Leon Rosa Bonheur
 - arrastrar la imagen
 - copiar y pegar
 - clic derecho en la imagen - vectorizar mapa de bits
+```
 
+```
 ### Explicación del cuadro de victorizar
 
 Existen varias opciones; lo primero es decidir si el programa haráuna o más pasadas. Con una única pasada
@@ -88,6 +90,6 @@ En tamaño vamos a ajustar página a contenido seleccionamos la imagen y pulsamo
 - Borramos el ráster
 - guardamos como león.SGV
 - Subimos al github
-- 
+```
 
 
