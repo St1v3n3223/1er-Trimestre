@@ -47,9 +47,9 @@ GIF
 ![](https://raw.githubusercontent.com/St1v3n3223/1er-Trimestre/main/that-time-i-got-reincarnated-as-a-slime-rimuru.gif)
 
 
-PNJ
+JPG
 ![](https://raw.githubusercontent.com/St1v3n3223/1er-Trimestre/main/rimuru%2Cveldora.png)
 
 
-JPG
-![](https://raw.githubusercontent.com/St1v3n3223/1er-Trimestre/main/rimurua.jpg)
+PNG
+![](https://i0.wp.com/i0.pngocean.com/files/582/854/328/black-and-white-anime-drawing-manga-crying-anime.jpg)
