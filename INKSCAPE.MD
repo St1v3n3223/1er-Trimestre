@@ -44,15 +44,14 @@ Remasterizamos una imagen cuando la pasamos de vectorial a raster
 Pasar imagenes raser a imagenes vectoriales.
 
 ```
-```
+
 GIF
 ![](https://raw.githubusercontent.com/St1v3n3223/1er-Trimestre/main/that-time-i-got-reincarnated-as-a-slime-rimuru.gif)
-```
-```
+
+
 JPG
 ![](https://raw.githubusercontent.com/St1v3n3223/1er-Trimestre/main/rimuru%2Cveldora.png)
-```
-```
+
 PNG
 ![](https://raw.githubusercontent.com/St1v3n3223/1er-Trimestre/main/samurai.jpg)
 ```
