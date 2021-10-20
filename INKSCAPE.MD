@@ -44,14 +44,19 @@ Remasterizamos una imagen cuando la pasamos de vectorial a raster
 Pasar imagenes raser a imagenes vectoriales.
 
 ```
-
+```
 GIF
 ![](https://raw.githubusercontent.com/St1v3n3223/1er-Trimestre/main/that-time-i-got-reincarnated-as-a-slime-rimuru.gif)
-
-
+```
+```
 JPG
 ![](https://raw.githubusercontent.com/St1v3n3223/1er-Trimestre/main/rimuru%2Cveldora.png)
-
-
+```
+```
 PNG
-![](https://upload.wikimedia.org/wikipedia/commons/9/90/Rosa_Bonheur_-_Portrait_of_a_Lion_-_Prado.jpg)
+![](https://raw.githubusercontent.com/St1v3n3223/1er-Trimestre/main/samurai.jpg)
+```
+Leon Rosa Bonheur
+![](https://raw.githubusercontent.com/St1v3n3223/1er-Trimestre/main/Rosa_Bonheur_-_Portrait_of_a_Lion_-_Prado.jpg)
+```
+
