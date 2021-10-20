@@ -195,3 +195,7 @@ Para psar de byte a kilobyte (KB) dividimos entre 1024, qu8 es el numero de byte
  la velocidad determinate es igual a la fran
  
  En informatica 
+ 
+ 
+ 
+ ### INKSCAPE.md
