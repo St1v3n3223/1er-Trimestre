@@ -43,5 +43,5 @@ PNJ
 ![](https://raw.githubusercontent.com/St1v3n3223/1er-Trimestre/main/rimuru%2Cveldora.png)
 
 
-PNJ
+JPG
 ![](https://raw.githubusercontent.com/St1v3n3223/1er-Trimestre/main/rimurua.jpg)
