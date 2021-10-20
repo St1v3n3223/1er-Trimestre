@@ -55,7 +55,7 @@ JPG
 PNG
 ![](https://raw.githubusercontent.com/St1v3n3223/1er-Trimestre/main/samurai.jpg)
 
-Leon Rosa Bonheur
+#### Leon Rosa Bonheur
 ![](https://raw.githubusercontent.com/St1v3n3223/1er-Trimestre/main/Rosa_Bonheur_-_Portrait_of_a_Lion_-_Prado.jpg)
 
 ```
