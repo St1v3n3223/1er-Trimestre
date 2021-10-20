@@ -89,6 +89,5 @@ En tamaño vamos a ajustar página a contenido seleccionamos la imagen y pulsamo
 - guardamos como león.SGV
 - Subimos al github
 - 
-![imagen](https://user-images.githubusercontent.com/90753482/138084170-923ae237-2997-4e26-b0b4-1c730a746c43.png)
 
 
