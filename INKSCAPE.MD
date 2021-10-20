@@ -35,6 +35,14 @@ Las lineas horizontales suelen ser
  -RGB (red green, blue,)
  -CMYK(Cuya
 
+```
+### Remasterizar
+
+Remasterizamos una imagen cuando la pasamos de vectorial a raster
+
+
+```
+
 GIF
 ![](https://raw.githubusercontent.com/St1v3n3223/1er-Trimestre/main/that-time-i-got-reincarnated-as-a-slime-rimuru.gif)
 
