@@ -93,7 +93,9 @@ En tamaño vamos a ajustar página a contenido seleccionamos la imagen y pulsamo
 ```
 
 Leon 1
+He canviado la textura del leon .
 
 ![](https://raw.githubusercontent.com/St1v3n3223/1er-Trimestre/5a73e77629a9082c015c10d9254e0587793049a9/leon%20perfecto.svg)
+
 
 Leon 2
