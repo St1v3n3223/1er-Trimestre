@@ -40,6 +40,8 @@ Las lineas horizontales suelen ser
 
 Remasterizamos una imagen cuando la pasamos de vectorial a raster
 
+### Vectorizar
+Pasar imagenes raser a imagenes vectoriales.
 
 ```
 
