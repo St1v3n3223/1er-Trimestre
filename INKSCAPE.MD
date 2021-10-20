@@ -1,5 +1,5 @@
 ## Pixeles-pantalla
-
+```
 ### Imagenes
 
 Las  imagenes se guardan digitalmente de dos m,aenras
@@ -34,7 +34,7 @@ Las lineas horizontales suelen ser
  -sistema para detallar el color
  -RGB (red green, blue,)
  -CMYK(Cuya
-
+```
 ```
 ### Remasterizar
 
