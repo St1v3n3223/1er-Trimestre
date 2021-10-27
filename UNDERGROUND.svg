@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="179.24416mm"
+   height="156.92137mm"
+   viewBox="0 0 179.24416 156.92137"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (eb90963e84, 2021-10-02)"
+   sodipodi:docname="UNDERGROUND.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.73228114"
+     inkscape:cx="102.41968"
+     inkscape:cy="339.35054"
+     inkscape:window-width="1920"
+     inkscape:window-height="982"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2">
+    <rect
+       x="68.126694"
+       y="353.88043"
+       width="676.7373"
+       height="130.91306"
+       id="rect33376" />
+    <rect
+       x="79.860008"
+       y="415.39807"
+       width="11.733315"
+       height="69.395432"
+       id="rect21066" />
+    <rect
+       x="81.74012"
+       y="382.979"
+       width="663.12384"
+       height="101.8145"
+       id="rect8256" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-18.454509,-29.766625)">
+    <ellipse
+       style="fill:#f62020;fill-opacity:1;stroke:#e48d00;stroke-width:0.264999"
+       id="path876"
+       cx="107.48787"
+       cy="108.22731"
+       rx="79.784264"
+       ry="78.328186" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:#e48d00;stroke-width:0.295699"
+       id="path1540"
+       cx="106.96746"
+       cy="106.8475"
+       rx="46.312561"
+       ry="44.942978" />
+    <rect
+       style="fill:#0016dd;fill-opacity:1;stroke:#e48d00;stroke-width:0.190744"
+       id="rect1778"
+       width="179.05341"
+       height="34.637409"
+       x="18.549881"
+       y="93.808754" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text21064"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect21066);fill:#000000;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.47297986,0,0,0.66331474,2.2380258,-137.32508)"
+       id="text33374"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect33376);fill:#fefefe;fill-opacity:1;stroke:none"><tspan
+         x="68.126953"
+         y="389.27148"
+         id="tspan5561">UNDERGROUND</tspan></text>
+  </g>
+</svg>
