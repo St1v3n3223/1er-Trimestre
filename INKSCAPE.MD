@@ -157,3 +157,6 @@ He hecho un rombo lo e copiado tres veces lo pinte de color rojo despues lo gire
 He hecho un circulo rojo,le puese dos rectangulos despues hice dos triangulos y los gire, despues los puse en las puntas de los rectangulos.
 
 ![](https://raw.githubusercontent.com/St1v3n3223/1er-Trimestre/aca0eacd39a394fa83c0680cda00152a820d2f15/logo%203.svg)
+
+
+![](https://raw.githubusercontent.com/St1v3n3223/1er-Trimestre/6537b7cf6298fa9f731d7c8b1474a708cd188e6b/Favor.svg)
