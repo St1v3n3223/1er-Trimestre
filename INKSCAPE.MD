@@ -136,4 +136,17 @@ CMYK
 
 Este sistema mezcla los tres colores primarios substractivos(Cyan,Magenta,amarillo) y un canal de negro.
 
--Un canal de transparencia(Alfa 
+-Un canal de transparencia(Alfa ç
+
+### Logo UnderGround
+
+He cogido dos circulos uno grande y rojo otro mas pequeño y blanco y lo he puesto encima, despues un rectangulo azul en medio de los circulos,para acabar e escrito el nombre del logo.
+
+
+![](https://raw.githubusercontent.com/St1v3n3223/1er-Trimestre/50f01e6f8b1105d07cd8262be7dfa595bc09f6bb/UNDERGROUND.svg)
+
+### Logo de Mitsubishi
+
+He hecho un rombo lo e copiado tres veces lo puse rojo despues lo gire 120 grados y junte las puntas
+
+![](https://raw.githubusercontent.com/St1v3n3223/1er-Trimestre/b7b38d77ec51d2404e2fb8234420d86f4724cb1c/mitsunishi.svg)
