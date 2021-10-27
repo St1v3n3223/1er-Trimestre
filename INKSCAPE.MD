@@ -97,3 +97,43 @@ He canviado la textura del leon .
 
 ![](https://raw.githubusercontent.com/St1v3n3223/1er-Trimestre/5a73e77629a9082c015c10d9254e0587793049a9/leon%20perfecto.svg)
 
+### Leon 1.png
+![](https://raw.githubusercontent.com/St1v3n3223/1er-Trimestre/main/leon%201.oo.png)
+### Leon 2.png
+![](https://raw.githubusercontent.com/St1v3n3223/1er-Trimestre/main/leon%20160.png)
+
+
+
+# Propiedades de las formas
+
+- Leon1.svg
+
+- Desagruparlo -> Varias formas -> Cambiar las propiedades de las formas
+
+3 ELEMENTOS 
+- Relleno "Pincel"
+- Trazo (Línea)
+- Estilo de trazo(Línea)
+
+
+
+RGBA 
+
+Mezcla de los colores primarios aditivos : Rojo (Red), Verde (Green) y Azul (Blue).
+
+
+HSL (Hue,Saturation,Light)
+
+Tono/Saturación
+
+Este sistema mezcla lo siguiente: 
+- Un de tono de color en la rueda cromática ( Hue, tono de color en inglés) 
+- Un canal de nivel de saturación cromática que va de gris al color (Saturation) 
+- Un canal de luminosidad de color (Light)
+- Un canal de transparencia(Alfa)
+
+CMYK
+
+Este sistema mezcla los tres colores primarios substractivos(Cyan,Magenta,amarillo) y un canal de negro.
+
+-Un canal de transparencia(Alfa 
