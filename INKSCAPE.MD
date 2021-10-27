@@ -154,6 +154,6 @@ He hecho un rombo lo e copiado tres veces lo pinte de color rojo despues lo gire
 
 ### Favor
 
-He hecho un circulo rojo,le puese dos rectangulos despues hice dos rombo y los gire despues los puse en las puntas de los rectangulos.
+He hecho un circulo rojo,le puese dos rectangulos despues hice dos rombo y los gire, despues los puse en las puntas de los rectangulos.
 
 ![](https://raw.githubusercontent.com/St1v3n3223/1er-Trimestre/aca0eacd39a394fa83c0680cda00152a820d2f15/logo%203.svg)
