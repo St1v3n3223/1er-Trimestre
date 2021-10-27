@@ -150,3 +150,8 @@ He cogido dos circulos uno grande y rojo otro mas pequeño y blanco y lo he pues
 He hecho un rombo lo e copiado tres veces lo pinte de color rojo despues lo gire 120 grados y junte las puntas
 
 ![](https://raw.githubusercontent.com/St1v3n3223/1er-Trimestre/b7b38d77ec51d2404e2fb8234420d86f4724cb1c/mitsunishi.svg)
+
+
+### Favor
+
+![](https://raw.githubusercontent.com/St1v3n3223/1er-Trimestre/aca0eacd39a394fa83c0680cda00152a820d2f15/logo%203.svg)
