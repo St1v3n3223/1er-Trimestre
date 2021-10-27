@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="159.88614mm"
+   height="139.52745mm"
+   viewBox="0 0 159.88614 139.52745"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1 (ce6663b3b7, 2021-05-25)"
+   inkscape:version="1.1.1 (eb90963e84, 2021-10-02)"
    sodipodi:docname="mitsunishi.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,23 +24,28 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.73228114"
-     inkscape:cx="51.892638"
-     inkscape:cy="560.57704"
+     inkscape:cx="10.924766"
+     inkscape:cy="407.63033"
      inkscape:window-width="1920"
      inkscape:window-height="982"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <defs
      id="defs2" />
   <g
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-10.721807,-40.315221)">
     <path
        sodipodi:type="star"
-       style="fill:#f62626;stroke:#e48d00;stroke-width:1.00157;fill-opacity:1"
+       style="fill:#f62626;fill-opacity:1;stroke:#e48d00;stroke-width:1.00157"
        id="path1054"
        inkscape:flatsided="true"
        sodipodi:sides="4"
@@ -56,7 +61,7 @@
        transform="matrix(0.15965958,0,0,0.26458333,37.639033,38.017887)" />
     <path
        sodipodi:type="star"
-       style="fill:#ff3939;stroke:#e48d00;stroke-width:1.00157;fill-opacity:1"
+       style="fill:#ff3939;fill-opacity:1;stroke:#e48d00;stroke-width:1.00157"
        id="path1136"
        inkscape:flatsided="true"
        sodipodi:sides="4"
