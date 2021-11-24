@@ -27,3 +27,5 @@ Me llamo Stiven
 [Arquitectura pdf](https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf)
 
 ![Inkescape](https://github.com/St1v3n3223/1er-Trimestre/blob/main/INKSCAPE.MD)
+
+[Diseño 3d ](https://github.com/St1v3n3223/1er-Trimestre/blob/main/Dise%C3%B1o%203d.md)
