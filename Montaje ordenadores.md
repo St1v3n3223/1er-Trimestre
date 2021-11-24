@@ -16,7 +16,7 @@ David
 
 ### Empezamos quitando la tapa donde  que dan todos los componentes expuestos
 
-![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_114820.jpg)
+![a](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_114820.jpg)
 
 ### En esta fotografia podemos observar el sistema operativo que lleva y los numeros de serie
 
