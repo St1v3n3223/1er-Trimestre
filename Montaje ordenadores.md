@@ -12,51 +12,51 @@ David
 
 ### Podemos observar todos los componentes del ordenador desmontado
 
-![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_124718_1.jpg)
+![foto](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_124718_1.jpg)
 
 ### Empezamos quitando la tapa donde  que dan todos los componentes expuestos
 
-![a](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_114820.jpg)
+![foto](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_114820.jpg)
 
 ### En esta fotografia podemos observar el sistema operativo que lleva y los numeros de serie
 
-![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_114922.jpg)
+![foto](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_114922.jpg)
 
 ### Aqui pone el sistema que lleva
 
-![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_114925.jpg)
+![foto](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_114925.jpg)
 
 ### Vemos el pc abierto desde otra perspectiva y la placa base 
 
-![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_115041.jpg)
+![foto](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_115041.jpg)
 
-![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_115135.jpg)
+![foto](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_115135.jpg)
 
 
 
-![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_115323.jpg)
+![foto](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_115323.jpg)
 
-![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_120321.jpg)
+![foto](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_120321.jpg)
 
-![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_120333.jpg)
+![foto](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_120333.jpg)
 
-![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_121620.jpg9)
+![foto](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_121620.jpg9)
 
-![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_121805.jpg)
+![foto](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_121805.jpg)
 
-![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_122850.jpg)
+![foto](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_122850.jpg)
 
-![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_123126.jpg)
+![foto](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_123126.jpg)
 
-![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_123455.jpg)
+![foto](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_123455.jpg)
 
-![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_123506.jpg)
+![foto](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_123506.jpg)
 
-![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_124718_1.jpg)
+![foto](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_124718_1.jpg)
 
-![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_130223-1.jpg)
+![foto](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_130223-1.jpg)
 
-![](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_130223.jpg)
+![foto](https://github.com/DavidMenCam/1er-trimestre/blob/main/IMG_20210929_130223.jpg)
 
 ## Que habeis aprendido
 
