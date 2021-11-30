@@ -154,7 +154,10 @@ He hecho un rombo lo e copiado tres veces lo pinte de color rojo despues lo gire
 
 ### Favor
 
-He hecho un circulo rojo,le puese dos rectangulos despues hice dos triangulos y los gire, despues los puse en las puntas de los rectangulos.
+He hecho un circulo rojo,despues hize dos rectangulos(Los seleccione y lo puse en diferencia para que sean iguales depues a alimear y a transformar,para hacer la punta le di a transformar-inclinar- -45 y aplicar)cuando ya tienes los rectangulos los pones encima del circulo y le das a traject-diferencia.
+
+Si quieres ajustra el lienzo le das a edicion-ajustar pagina a la seleccion
+
 
 ![](https://raw.githubusercontent.com/St1v3n3223/1er-Trimestre/aca0eacd39a394fa83c0680cda00152a820d2f15/logo%203.svg)
 
