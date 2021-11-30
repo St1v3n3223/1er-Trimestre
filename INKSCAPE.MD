@@ -156,7 +156,7 @@ He hecho un rombo lo e copiado tres veces lo pinte de color rojo despues lo gire
 
 He hecho un circulo rojo,despues hize dos rectangulos(Los seleccione y lo puse en diferencia para que sean iguales depues a alimear y a transformar,para hacer la punta, le di a transformar-inclinar- -45 y aplicar)cuando ya tienes los rectangulos los pones encima del circulo y le das a traject-diferencia.
 
-Si quieres ajustra el lienzo le das a edicion-ajustar pagina a la seleccion
+
 
 
 ![](https://raw.githubusercontent.com/St1v3n3223/1er-Trimestre/aca0eacd39a394fa83c0680cda00152a820d2f15/logo%203.svg)
@@ -169,3 +169,7 @@ Si quieres ajustra el lienzo le das a edicion-ajustar pagina a la seleccion
 ![](https://github.com/St1v3n3223/1er-Trimestre/blob/739872469be011bbc7d2ccdf604a12355b746c23/Captura%20de%20pantalla%20de%202021-11-30%2009-42-25.png)
 
 ![](https://github.com/St1v3n3223/1er-Trimestre/blob/739872469be011bbc7d2ccdf604a12355b746c23/favoor.svg)
+
+Si quieres ajustra el lienzo le das a edicion-ajustar pagina a la seleccion
+
+![](https://github.com/St1v3n3223/1er-Trimestre/blob/e6c043c5eac1adae56133ad887590a303e43be62/Captura%20de%20pantalla%20de%202021-11-30%2010-22-36.png)
