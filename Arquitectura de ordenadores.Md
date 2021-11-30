@@ -266,5 +266,29 @@ Para psar de byte a kilobyte (KB) dividimos entre 1024, qu8 es el numero de byte
  En informatica 
  
  
- 
- ### INKSCAPE.md
+## UNIDADES DE LA FRECUENCIA
+
+La frecuencia se mide en hertz o segundos a la menos 1
+
+Un hz representa que algo ocurre una vez por segundo
+
+6.1 Un HZ suele representar cosas que pasan cada diez segundos
+
+5. Un HZ representa que algo ocurre 5 veces por segundo
+
+En informatica estas frecuencias pueden referirse a:
+
+Frecuencias de reloj para trasmitir datos 
+
+Frecuencia de sonido
+
+25hz3 52bytes/paquete
+
+25.000.000 x 512= 12800000000 bytes/s
+
+3hz 3 veces por segundo 
+
+20kz son 20.000 veces por segundo
+
+8bits x 20hz=
+
