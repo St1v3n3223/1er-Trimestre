@@ -160,3 +160,7 @@ He hecho un circulo rojo,le puese dos rectangulos despues hice dos triangulos y 
 
 
 ![](https://raw.githubusercontent.com/St1v3n3223/1er-Trimestre/6537b7cf6298fa9f731d7c8b1474a708cd188e6b/Favor.svg)
+
+![]()
+
+![]()
