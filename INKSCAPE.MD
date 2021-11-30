@@ -161,6 +161,6 @@ He hecho un circulo rojo,le puese dos rectangulos despues hice dos triangulos y 
 
 ![](https://raw.githubusercontent.com/St1v3n3223/1er-Trimestre/6537b7cf6298fa9f731d7c8b1474a708cd188e6b/Favor.svg)
 
-![]()
+![](https://github.com/St1v3n3223/1er-Trimestre/blob/739872469be011bbc7d2ccdf604a12355b746c23/Captura%20de%20pantalla%20de%202021-11-30%2009-42-46.png)
 
-![]()
+![](https://github.com/St1v3n3223/1er-Trimestre/blob/739872469be011bbc7d2ccdf604a12355b746c23/Captura%20de%20pantalla%20de%202021-11-30%2009-42-25.png)
