@@ -3,7 +3,8 @@
 
 ## Que es una laser:
 
-Es un dispocitivo optico que lanza un haz de luz termica que corta sobre objetos.
+Es un dispocitivo optico que lanza un haz de luz termica que corta sobre objetos,dependiendo del objeto utiliza mas energia para hacer un corte mas fuerte,para cortar o quemar un objeto y crear la forma de loque en ese momento queremos hacer.
+Se puede utilizar en muchos objetos de diferente durabilidat en la cual se adapta la fuerza del laser.
 
 
 ## Que he aprendido y que he hecho en ella.
@@ -18,7 +19,7 @@ He hecho diseños en Inkscape para decoracion en objetos , personalizar y crear 
 
 ## Que es Oneshape:
 
-Oneshape es un programa para hacer diseños 3D y crear objetos.
+Oneshape es un programa para hacer diseños 3D y crear objetos tambien para modificar projectos ya hechos por otras personas y adequarlo a tus necesidades. Puede ser de mucha ayuda porque puedes crear piezas para maquinas, instrumentos a tus medidas.
 
 ## Que he aprendido y que he hecho en ella.
 
