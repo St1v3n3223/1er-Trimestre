@@ -10,7 +10,7 @@ Es un dispocitivo optico que lanza un haz de luz termica que corta sobre objetos
 
 He aprendido como funciona,las utilidades que tiene y que te pueden ajudar mucho.
 
-He Hecho diseños en Inkscape para decoracion en objetos , personalizar y crear objetos.
+He hecho diseños en Inkscape para decoracion en objetos , personalizar y crear objetos.
 
 ![Imagen](https://github.com/St1v3n3223/1er-Trimestre/blob/main/WhatsApp%20Image%202022-02-10%20at%2010.03.38.jpeg?raw=true)
 
