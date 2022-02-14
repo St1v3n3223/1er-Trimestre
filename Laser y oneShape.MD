@@ -28,3 +28,36 @@ He aprendido como utilizar el programa y crear varios objetos.
 He hecho varios diseños y obejetos.
 
 ![ImaGEN](https://github.com/St1v3n3223/1er-Trimestre/blob/main/Captura%20de%20pantalla%20de%202022-02-10%2010-08-16.png?raw=true)
+
+## Moldes
+
+
+## Que es un molde ?
+
+Instrumento que se utiliza para dar forma a una cosa o para estamparla y que se aplica externamente; especialmente el que se usa en la imprenta para estampar las letras.
+
+## Como se hace un molde ?
+
+Creando de forma digital o artesanal,la pieza con la forma que queremos para despues inprimirla o darle calor (dependiendo de como lo hagas) para poder utilizarla.
+
+##  Para que sirve un molde ?
+
+Un molde es un receptáculo hueco, de madera, metal o plástico, que da forma a la sustancia blanda o líquida que contiene, cuando ésta se solidifica. ... En costura, se utilizan moldes de papel, para la confección de ropas, que sirven para dar la forma a las vestimentas de acuerdo a las medidas de aquel que las usará.
+(Sacado de internet).
+
+## Como se hacen moldes con impresoras 3D.
+
+1.Diseñe el molde teniendo en cuenta el diseño y las dimensiones adecuadas.
+
+2.Imprime el molde- asegúrate que las capas estén orientadas en la misma dirección en la que el polímero fluirá dentro del molde.
+
+3.Acabado opcional. La mayoría de estos moldes no necesitan post procesado.
+
+4.Monta el molde. Coloca el molde dentro de la máquina de inyección.
+
+5.Fabrica tu prototipo- separa las partes del molde y extrae la pieza.
+
+
+
+
+
