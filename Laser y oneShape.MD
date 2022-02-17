@@ -58,6 +58,32 @@ Un molde es un receptáculo hueco, de madera, metal o plástico, que da forma a 
 5.Fabrica tu prototipo- separa las partes del molde y extrae la pieza.
 
 
+# Que es una CNC ?
+
+Cualquier maquina controlada por un ordenador con coordenadas numericas es una maquinan CNC.
+
+Ejemplo:
+
+Las maquinas 3D, Porque se programan con coordenadas numericas que son enviadas a la maquina.
+
+## Para que sirve ?
+
+Para poder hacer cortes precisos ya que manualment no es tan preciso y cortes sobre superficies duras como metales o madera.
+
+## Como se puede usar en la fabricacion digital?
+
+Se puede utilizar para imprimir capa por capa o a partir de un bloque quitando material para conseguir la forma deseada.
+
+Al ser hecho por una maquina es mucho mas preciso y queda un trabajo mas pulido que a mano.
+
+## Que cosas puedes hacer con una CNC?
+
+Puedes imprimir 3D 
+
+Utilizar un bloque de madera o metarl y rebajarlo para hacer la figura deseada.
+
+Hacer piezas.
+
 
 
 
