@@ -81,7 +81,7 @@ Al ser hecho por una maquina es mucho mas preciso y queda un trabajo mas pulido 
 
 Puedes imprimir 3D 
 
-Utilizar un bloque de madera o metarl y rebajarlo para hacer la figura deseada.
+Utilizar un bloque de madera o metal y rebajarlo para hacer la figura deseada.
 
 Hacer piezas.
 
