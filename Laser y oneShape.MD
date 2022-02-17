@@ -57,6 +57,7 @@ Un molde es un receptáculo hueco, de madera, metal o plástico, que da forma a 
 
 5.Fabrica tu prototipo- separa las partes del molde y extrae la pieza.
 
+![Imagen](https://github.com/St1v3n3223/1er-Trimestre/blob/b98b06f247632b78bb93e5388b7356334ad143fb/Captura%20de%20pantalla%20de%202022-02-17%2009-19-25.png)
 
 # Que es una CNC ?
 
@@ -84,6 +85,7 @@ Utilizar un bloque de madera o metarl y rebajarlo para hacer la figura deseada.
 
 Hacer piezas.
 
+![Imagen](https://github.com/St1v3n3223/1er-Trimestre/blob/b98b06f247632b78bb93e5388b7356334ad143fb/cnc.jpg)
 
 
 
